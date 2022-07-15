@@ -24,7 +24,7 @@
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2022 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: <a href="mailto:contact@mysteriousdev.fr">Send me a message</a>
+- 📬 How to reach me: <a href="mailto:contact@mysteriousdev.fr">Send me an email</a>
 - 🧗 I try to: Go beyond and push the bounds
 
 <br>
