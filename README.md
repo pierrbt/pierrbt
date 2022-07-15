@@ -26,7 +26,6 @@
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: <a href="mailto:contact@mysteriousdev.fr">Send me a message</a>
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love working myself.
 
 <br>
 
