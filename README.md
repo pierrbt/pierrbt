@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pierrbt" alt="pierrbt" /></a> </p>
 
-- 🔭 I’m currently working on **InfinIdea**
+- 🔭 I’m currently working on **[InfinIdea](https://github.com/Mysterious-Developers/InfinIdea)**
 
 - 🌱 I’m currently learning **PHP, JavaScript, Python**
 
-- 👯 I’m looking to collaborate on [WeathGet](https://github.com/Mysterious-Developers/weather-widget)
+- 👯 I’m looking to collaborate on **[InfinIdea](https://github.com/Mysterious-Developers/InfinIdea)**
 
-- 🤝 I’m looking for help with [WeathGet](https://github.com/Mysterious-Developers/weather-widget)
+- 🤝 I’m looking for help with **[InfinIdea](https://github.com/Mysterious-Developers/InfinIdea)**
 
-- 👨‍💻 All of my projects are available at [https://www.mysteriousdev.fr](https://www.mysteriousdev.fr)
+- 👨‍💻 All of my projects are available at [veagle.fr](https://veagle.fr)
 
-- 📝 I regularly write articles on [https://myproject.mysteriousdev.fr](https://myproject.mysteriousdev.fr)
+- 📝 I regularly write articles on **[InfinIdea](https://github.com/Mysterious-Developers/InfinIdea)**
 
-- 💬 Ask me about **C++, databases**
+- 💬 Ask me about **C++, databases, PHP and Linux hosting**
 
 - 📫 How to reach me **pierre.bidet@gmail.com**
 
