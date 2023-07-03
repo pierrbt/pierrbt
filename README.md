@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm pierrbt</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pierrbt&label=Profile%20views&color=0e75b6&style=flat" alt="pierrbt" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pierrbt" alt="pierrbt" /></a> </p>
-
 - 🔭 I’m currently working on [pingvin-share](https://github.com/stonith404/pingvin-share)
 
 - 🌱 I’m currently learning **Typescript, React / NextJS**
@@ -17,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/pierrbt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pierrbt" height="30" width="40" /></a>
+<a href="https://instagram.com/pierrbt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pierrbt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
