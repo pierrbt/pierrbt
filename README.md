@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm pierrbt</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on [pingvin-share](https://github.com/stonith404/pingvin-share)
+- 🔭 I’m currently working on the [Griff Launcher](https://github.com/VeagleDev/Griff)
 
 - 🌱 I’m currently learning **Typescript, React / NextJS**
 
