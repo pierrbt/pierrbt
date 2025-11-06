@@ -60,8 +60,8 @@
 ### 📫 Contact
 
 <p align="center">
-  <a href="mailto:pierre.bidet@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pierre.bidet%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <a href="mailto:pe08bt@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pe08bt%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
 
