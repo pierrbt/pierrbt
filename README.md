@@ -1,5 +1,5 @@
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=120&section=header&text=Pierre%20Bidet&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Developer%20from%20France&descSize=18&descAlign=50&descAlignY=55" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=120&section=header&text=pierrbt&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Developer%20from%20France&descSize=18&descAlign=50&descAlignY=55" />
 </div>
 
 <h1 align="center">👋 Hey, I'm Pierre</h1>
